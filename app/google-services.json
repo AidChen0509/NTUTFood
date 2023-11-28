@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "211333662359",
+    "firebase_url": "https://ntutfood-43a70-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ntutfood-43a70",
+    "storage_bucket": "ntutfood-43a70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211333662359:android:fa2d81a64f98044515cbd2",
+        "android_client_info": {
+          "package_name": "com.ntutixd.ntutfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211333662359-aeg5jf4n8hfbs6tnuuud3f6htntg2j5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyNtRniDzrwW0H92fsadYS61dIzT846Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211333662359-aeg5jf4n8hfbs6tnuuud3f6htntg2j5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

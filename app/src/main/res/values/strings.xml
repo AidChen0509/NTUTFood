@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NTUTFood</string>
+    <string name="nav_home">首頁</string>
+    <string name="nav_heart">我的最愛</string>
+    <string name="nav_notify">最新優惠</string>
+    <string name="nav_map">餐廳地圖</string>
+    <string name="welcome_text">歡迎，想吃什麼呢?</string>
+    <string name="katsuei">餐廳標題</string>
+    <string name="japenese_su">1F • 甜點下午茶</string>
+    <string name="min">10-20 min</string>
+    <string name="badge_money">$50-95</string>
+    <string name="ratings">4.3</string>
+    <string name="resonlinetitle">營業時間</string>
+    <string name="resonlinetime">一~日 10：30－17：00</string>
+    <string name="payments">付款方式</string>
+    <string name="cash">現金</string>
+    <string name="fiveticket">紙本五倍券</string>
+    <string name="samsungpay">SamsungPay</string>
+    <string name="credit_card">信用卡</string>
+    <string name="easycard">悠遊卡</string>
+    <string name="applepay">ApplePay</string>
+    <string name="menu_title">菜單</string>
+    <string name="search_hint">搜尋餐廳名稱或食物種類</string>
+    <string name="map_text">綠光庭園位置地圖</string>
+    <string name="notify_text">餐廳最新優惠</string>
+    <string name="favo_text">我的最愛餐廳</string>
+</resources>
